@@ -1,0 +1,79 @@
+# ==========================
+# Python files
+# ==========================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environments
+venv/
+env/
+.venv/
+
+
+# ==========================
+# Jupyter Notebook
+# ==========================
+
+.ipynb_checkpoints/
+
+
+# ==========================
+# IDE files
+# ==========================
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+
+# ==========================
+# Operating System files
+# ==========================
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
+
+
+# ==========================
+# Data files
+# ==========================
+
+# Ignore large datasets
+*.csv
+*.xlsx
+*.xls
+
+# Ignore raw data folders
+data/raw/
+
+
+# ==========================
+# Model files
+# ==========================
+
+*.pkl
+*.joblib
+*.pickle
+
+
+# ==========================
+# Logs and temporary files
+# ==========================
+
+*.log
+*.tmp
+
+
+# ==========================
+# Environment variables
+# ==========================
+
+.env
